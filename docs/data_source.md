@@ -18,6 +18,7 @@ The dataset was selected because it provides realistic Data Engineering challeng
 - time-based partitioning opportunities;
 - join operations with dimension tables;
 - data quality validation scenarios;
+- skew;
 - Spark performance optimization opportunities.
 
 ## Data Format
