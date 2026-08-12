@@ -220,3 +220,5 @@ __marimo__/
 data/raw/
 
 .venv/
+
+src/read_from_s3_v1.py
